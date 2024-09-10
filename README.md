@@ -36,7 +36,7 @@ Step 8.:End
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: INAFNCI FELCY P
+Developed by: INAFNCIA FELCY P
 RegisterNumber:  212223040067
 */
 /*
