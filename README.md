@@ -105,7 +105,11 @@ Predictions:
 
 ## Output:
 mean
+
+
 ![Screenshot 2024-09-10 112710](https://github.com/user-attachments/assets/0d0a4512-04f8-478d-bcc0-a6af96166c66)
+
+
 ![Screenshot 2024-09-10 112941](https://github.com/user-attachments/assets/c2fbe888-b026-42b7-9e5e-8a602bd29c05)
 
 
